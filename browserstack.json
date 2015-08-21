@@ -3,6 +3,7 @@
 	"test_path": "test.html",
 	"browsers": [
 		"chrome_latest",
+		"opera_12.16",
 		{
 			"os": "android",
 			"os_version": "4.0"
