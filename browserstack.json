@@ -2,15 +2,49 @@
 	"test_framework" : "qunit",
 	"test_path": "test.html",
 	"browsers": [
-		"chrome_latest",
-		"opera_12.16",
+		{
+			"os": "android",
+			"os_version": "1.5"
+		},
+		{
+			"os": "android",
+			"os_version": "1.6"
+		},
+		{
+			"os": "android",
+			"os_version": "2.2"
+		},
+		{
+			"os": "android",
+			"os_version": "2.3"
+		},
 		{
 			"os": "android",
 			"os_version": "4.0"
 		},
 		{
 			"os": "android",
+			"os_version": "4.1"
+		},
+		{
+			"os": "android",
+			"os_version": "4.2"
+		},
+		{
+			"os": "android",
+			"os_version": "4.3"
+		},
+		{
+			"os": "android",
+			"os_version": "4.4"
+		},
+		{
+			"os": "android",
 			"os_version": "5.0"
+		},
+		{
+			"os": "ios",
+			"os_version": "6.1"
 		},
 		{
 			"os": "ios",
