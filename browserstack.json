@@ -8,10 +8,6 @@
 		},
 		{
 			"os": "android",
-			"os_version": "1.6"
-		},
-		{
-			"os": "android",
 			"os_version": "2.2"
 		},
 		{
@@ -44,7 +40,15 @@
 		},
 		{
 			"os": "ios",
-			"os_version": "6.1"
+			"os_version": "10.3"
+		},
+		{
+			"os": "ios",
+			"os_version": "9.3"
+		},
+		{
+			"os": "ios",
+			"os_version": "8.3"
 		},
 		{
 			"os": "ios",
@@ -52,7 +56,35 @@
 		},
 		{
 			"os": "ios",
-			"os_version": "8.3"
+			"os_version": "6.0"
+		},
+		{
+			"os": "ios",
+			"os_version": "5.1"
+		},
+		{
+			"os": "ios",
+			"os_version": "5.0"
+		},
+		{
+			"os": "ios",
+			"os_version": "4.3.2"
+		},
+		{
+			"os": "ios",
+			"os_version": "4.0"
+		},
+		{
+			"os": "ios",
+			"os_version": "3.2"
+		},
+		{
+			"os": "ios",
+			"os_version": "3.0"
+		},
+		{
+			"os": "winphone",
+			"os_version": "8.1"
 		}
 	]
 }
