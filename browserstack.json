@@ -2,6 +2,13 @@
 	"test_framework" : "qunit",
 	"test_path": "test.html",
 	"browsers": [
+		"chrome_latest",
+		"firefox_latest",
+		"safari_latest",
+		"edge_latest",
+		"ie_latest",
+		"opera_latest",
+		"yandex_latest",
 		{
 			"os": "android",
 			"os_version": "1.5"
